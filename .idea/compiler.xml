@@ -2,6 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="api-gateway" target="17" />
+      <module name="api-gateway.main" target="17" />
+      <module name="api-gateway.test" target="17" />
+      <module name="order-service" target="17" />
+      <module name="order-service.main" target="17" />
+      <module name="order-service.test" target="17" />
+      <module name="product-service" target="17" />
+      <module name="product-service.main" target="17" />
+      <module name="product-service.test" target="17" />
+      <module name="recommendation-service" target="17" />
+      <module name="recommendation-service.main" target="17" />
+      <module name="recommendation-service.test" target="17" />
       <module name="user-service" target="17" />
       <module name="user-service.main" target="17" />
       <module name="user-service.test" target="17" />

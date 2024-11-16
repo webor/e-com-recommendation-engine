@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-libraries.iml" filepath="$PROJECT_DIR$/common-libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-com-recommendation.iml" filepath="$PROJECT_DIR$/e-com-recommendation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service.iml" filepath="$PROJECT_DIR$/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service.iml" filepath="$PROJECT_DIR$/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendation-service.iml" filepath="$PROJECT_DIR$/recommendation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recommendation-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recommendation-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recommendation-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recommendation-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service.iml" filepath="$PROJECT_DIR$/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.test.iml" />
     </modules>
   </component>
 </project>
